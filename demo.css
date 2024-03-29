@@ -1,0 +1,93 @@
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+border: 2px;
+}
+
+header {
+
+padding: 20px;
+text-align: center;
+}
+
+.Heading h2 {
+margin: 0;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 24px;
+}
+
+.Heading h3 {
+margin: 0;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: normal;
+padding-bottom: 15px;
+} 
+.Heading img{
+height: 70px;
+width: 250px;
+padding-right: 900px;
+}
+.body {
+text-align: left;
+padding-left: 100px;
+} 
+.course name {
+text-align: left;
+}
+
+.semester {
+font-family: Arial, sans-serif;
+}
+
+.semester strong {
+margin-right: 50px;
+}
+
+.gap {
+margin-right: 80px;
+}
+
+.form {
+background-color: rgb(172, 164, 16);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.course {
+background-color: rgb(38, 27, 136);
+}
+
+.general {
+background-color:rgb(61, 199, 49);
+}
+
+.comment{
+background-color: rgb(61, 199, 49);
+}
+
+.footer {
+text-align: center;
+padding-top: 50px;
+}
+
+.container {
+width: 80%; 
+margin: 0 auto; 
+border: 2px solid #000;
+box-sizing: border-box;
+overflow: auto; 
+ 
+}
+
+.body,
+.start,
+.course,
+.general,
+.comment,
+.footer {
+background-color: rgb(130, 153, 16); 
+padding: 20px;
+}
